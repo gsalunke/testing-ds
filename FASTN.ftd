@@ -3,7 +3,7 @@
 -- fastn.package: gsalunke.github.io/testing-ds
 favicon: /-/gsalunke.github.io/testing-ds/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/midnight-storm as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
